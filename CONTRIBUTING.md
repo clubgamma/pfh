@@ -25,7 +25,7 @@ _Welcome hackers it is really **awesome** have you here! Before start contributi
 1. [Club Gamma](https://github.com/clubgamma)
 
 ## Maintainers:
-1. [devarshidoshi]
+1. [devarshidoshi](https://github.com/devarshidoshi)
 
 ## General Contributors below:
 1. []
