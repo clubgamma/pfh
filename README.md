@@ -37,7 +37,7 @@ This Repository is created on purpose to get open-source contribution and includ
 - Make PR which is thoughtful
 - Don't forget to write your name on the Contributors.md file
 
-**Read the [CONTRIBUTING.md]() to start your open source contribution.**
+**Read the [CONTRIBUTING.md](https://github.com/clubgamma/pfh/blob/main/CONTRIBUTING.md) to start your open source contribution.**
 
 ## Things to keep in mind
 
