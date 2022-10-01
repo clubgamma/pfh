@@ -22,7 +22,7 @@ _Welcome hackers it is really **awesome** have you here! Before start contributi
 - ___for example: 1. Poojan Dev (added onboarding via hive)___ <br></br>
 
 ## Repo Owner:
-1. [Club Gamma](https://github.com/alokkumax)
+1. [Club Gamma](https://github.com/clubgamma)
 
 ## Maintainers:
 1. [devarshidoshi]
